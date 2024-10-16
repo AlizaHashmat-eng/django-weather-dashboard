@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Weather Dashboard
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) 
@@ -55,3 +56,6 @@ or [pull request](https://github.com/twosails/WeatherDashboard/pulls) to add/sug
 support.
 
 Any contributions are welcomed and appreciated 
+=======
+# django-weather-dashboard
+>>>>>>> a48afbbecc396e5c3daf725d29225f295210e6a0
